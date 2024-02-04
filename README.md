@@ -1,5 +1,33 @@
-# TO DO APP ❤️ Made with Flutter
+# To-Do App
 
-Full tutorial here: https://youtu.be/mMgr47QBZWA
+A basic to-do app in flutter to keep track of daily activities.
+Has a local database to save all tasks even if app is closed.
 
-![Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of  (58)](https://user-images.githubusercontent.com/29016489/191162308-a7074e8b-b414-4d08-9b03-9999988e4467.png)
+
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/Hammad2295/todoflutter/master/demo-ss-2.JPG)
+
+![App Screenshot](https://raw.githubusercontent.com/Hammad2295/todoflutter/master/demo-ss-1.JPG)
+
+
+## Deployment & Run
+
+To deploy this project first clean it by running:
+
+```bash
+  flutter clean
+```
+
+To rebuild project run:
+
+```bash
+  flutter pub get
+```
+
+To launch application run:
+
+```bash
+  flutter run
+```
+
